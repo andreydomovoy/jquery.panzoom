@@ -11,5 +11,8 @@
             "homepage": "http://timmywil.github.io/jquery.panzoom/",
             "role": "Developer"
         }
-    ]
+    ],
+    "require": {
+        "jquery": ">=2.0.0"
+    }
 }
