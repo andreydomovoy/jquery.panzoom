@@ -1,0 +1,15 @@
+{
+    "name": "ando/jquery-panzoom",
+    "type": "library",
+    "description": "A jQuery plugin for panning and zooming elements using CSS3.",
+    "keywords": ["jquery", "mouse", "wheel", "mousewheel", "panzoom", "zoom", "pan"],
+    "homepage": "https://github.com/timmywil/jquery.panzoom",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "timmywil",
+            "homepage": "http://timmywil.github.io/jquery.panzoom/",
+            "role": "Developer"
+        }
+    ]
+}
